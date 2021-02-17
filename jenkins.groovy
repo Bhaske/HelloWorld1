@@ -21,5 +21,10 @@ pipeline {
         echo 'Maintain code'
       }
     }
+stage('Maintai2') {
+      steps {
+        echo 'Maintain2 code'
+      }
+    }
   }
  
